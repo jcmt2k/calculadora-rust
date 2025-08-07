@@ -1,4 +1,4 @@
-'''# Calculadora en Rust con Iced
+# Calculadora en Rust con Iced
 
 Este proyecto es una calculadora de escritorio simple desarrollada en Rust utilizando la biblioteca de GUI `iced`. Es un excelente ejemplo para estudiantes que están aprendiendo Rust y quieren ver cómo se construye una aplicación de escritorio interactiva.
 
@@ -68,4 +68,3 @@ Este proyecto utiliza las siguientes dependencias (definidas en `Cargo.toml`):
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras un error o tienes una idea para mejorar la calculadora, no dudes en abrir un *issue* o un *pull request*.
-''
