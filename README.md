@@ -13,7 +13,7 @@ Este proyecto es una calculadora de escritorio simple desarrollada en Rust utili
 
 ## Captura de Pantalla
 
-*(Aquí puedes añadir una captura de pantalla de la aplicación en funcionamiento)*
+![Captura de pantalla de la calculadora](assets/calculadora-screenshot.png)
 
 ## Cómo Compilar y Ejecutar
 
