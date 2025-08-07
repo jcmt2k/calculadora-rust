@@ -22,7 +22,7 @@ Para compilar y ejecutar este proyecto, necesitarás tener instalado el [toolcha
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone <URL-DEL-REPOSITORIO>
+    git clone https://github.com/jcmt2k/calculadora-rust.git
     cd calculadora_rust
     ```
 
@@ -64,6 +64,10 @@ Este proyecto utiliza las siguientes dependencias (definidas en `Cargo.toml`):
 
 *   [`iced`](https://crates.io/crates/iced): El kit de herramientas de GUI multiplataforma.
 *   [`image`](https://crates.io/crates/image): Para cargar y procesar el icono de la aplicación.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el fichero [LICENSE](LICENSE) para más detalles.
 
 ## Contribuciones
 
