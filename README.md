@@ -23,7 +23,7 @@ Para compilar y ejecutar este proyecto, necesitarás tener instalado el [toolcha
 
     ```bash
     git clone https://github.com/jcmt2k/calculadora-rust.git
-    cd calculadora_rust
+    cd calculadora-rust
     ```
 
 2.  **Asegúrate de tener el icono:**
@@ -67,7 +67,7 @@ Este proyecto utiliza las siguientes dependencias (definidas en `Cargo.toml`):
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el fichero [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el fichero [LICENSE](LICENSE) para más detalles.
 
 ## Contribuciones
 
