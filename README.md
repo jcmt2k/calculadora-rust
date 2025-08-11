@@ -15,6 +15,13 @@ Este proyecto es una calculadora de escritorio simple desarrollada en Rust utili
 
 ![Captura de pantalla de la calculadora](assets/calculadora-screenshot.png)
 
+## Descarga el binario de la última versión.
+
+Este binario se puede ejecutar directamente.
+[Última versión](https://github.com/jcmt2k/calculadora-rust/releases/latest)
+
+[Descarga v1.0.0](https://github.com/jcmt2k/calculadora-rust/releases/download/v1.0.0/calculadora_rust)
+
 ## Cómo Compilar y Ejecutar
 
 Para compilar y ejecutar este proyecto, necesitarás tener instalado el [toolchain de Rust](https://www.rust-lang.org/tools/install).
