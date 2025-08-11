@@ -72,3 +72,4 @@ Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el fichero [LI
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras un error o tienes una idea para mejorar la calculadora, no dudes en abrir un *issue* o un *pull request*.
+
